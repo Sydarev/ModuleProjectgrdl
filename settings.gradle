@@ -1,0 +1,5 @@
+rootProject.name = 'GrdlHW'
+include 'db'
+include 'service'
+include 'api'
+
